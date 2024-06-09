@@ -7,6 +7,8 @@ export default function AboutPage() {
             <Button txt="DADDY"></Button>
             <Button txt="PLEASE"></Button>
             <Button txt="HELP"></Button>
+
+            <button>Something</button>
         </div>
     )
 }
